@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --collectCoverage=false",
-
     "test5": "jest JSIV.test.js  --useStderr --json --outputFile=./06-JavaScript-IV/tareas/tests/result.json",
     "test6": "jest JSV.test.js  --useStderr --json --outputFile=./07-JavaScript-V/tareas/tests/result.json",
     "test7": "jest JSVI.test.js  --useStderr --json --outputFile=./08-JavaScript-VI/tareas/tests/result.json",
